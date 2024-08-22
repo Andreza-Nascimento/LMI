@@ -1,0 +1,17 @@
+untitled.o: \
+ C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled.c \
+ C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled.h \
+ C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/rtwtypes.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/freedomboard/include/rgbled_wrapper.h \
+ C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled_types.h \
+ C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled_private.h
+
+C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled.h:
+
+C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/rtwtypes.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/freedomboard/include/rgbled_wrapper.h:
+
+C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled_types.h:
+
+C:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw/untitled_private.h:

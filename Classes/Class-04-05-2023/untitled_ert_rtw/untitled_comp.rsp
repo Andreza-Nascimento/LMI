@@ -1,0 +1,21 @@
+-IC:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/toolbox/target/supportpackages/freedomboard/include
+-IC:/Users/andre/Documents/GitHub/LMIs/Class-04-05-2023/untitled_ert_rtw
+-IC:/Program\ Files/MATLAB/R2023a/extern/include
+-IC:/Program\ Files/MATLAB/R2023a/simulink/include
+-IC:/Program\ Files/MATLAB/R2023a/rtw/c/src
+-IC:/Program\ Files/MATLAB/R2023a/rtw/c/src/ext_mode/common
+-IC:/Program\ Files/MATLAB/R2023a/rtw/c/ert
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/TARGET_KL25Z
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/TARGET_KL25Z/TARGET_Freescale
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/TARGET_KL25Z/TARGET_Freescale/TARGET_KLXX
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/TARGET_KL25Z/TARGET_Freescale/TARGET_KLXX/TARGET_KL25Z
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/TARGET_KL25Z/TARGET_Freescale/TARGET_KLXX/TARGET_KL25Z/device
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/TARGET_KL25Z/TOOLCHAIN_GCC_ARM
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/drivers
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/hal
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/mbedlibrary-stm.instrset/0f02307a0877/platform
+-IC:/ProgramData/MATLAB/SupportPackages/R2023a/3P.instrset/cmsis.instrset/CMSIS/Include
+-IC:/Program\ Files/MATLAB/R2023a/rtw/c/src/ext_mode/serial
+-IC:/Program\ Files/MATLAB/R2023a/toolbox/target/shared/armcortexmbase/scheduler/include
